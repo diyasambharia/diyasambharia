@@ -2,46 +2,42 @@
 
 **Final‑year B.Tech CSE student at VIT Bhopal (CGPA 9.26, graduating May 2027)**
 
-I build across AI/ML, backend, and full‑stack projects, and I write honestly about CS education and career navigation on the side.
+I build AI/ML, backend, and full‑stack solutions and write about CS education and career navigation.
 
----
-
-## 🎓 Education
-- **B.Tech Computer Science & Engineering** – VIT Bhopal (Class of 2027) – CGPA 9.26
+## 📚 Education
+- B.Tech Computer Science & Engineering – VIT Bhopal (Class of 2027) – CGPA 9.26
 
 ## 💡 Interests
-- AI/ML, RAG pipelines, backend systems, developer tools
+AI/ML, RAG pipelines, backend systems, developer tools
 
 ## ✍️ Writing
-I share anti‑hustle, honest takes on CS education and careers on [Medium](https://medium.com/@diya.sambharia).
+Medium: [diya.sambharia](https://medium.com/@diya.sambharia)
 
 ## 🎨 Community & Volunteering
-- **Core Member**, VIT Bhopal UX Club
-- **Volunteer**, Naya Sawera NGO – literacy & creative activities for under‑privileged children
+- Core Member, VIT Bhopal UX Club
+- Volunteer, Naya Sawera NGO
 
-## 📫 Reach me
-- **LinkedIn**: [diya‑sambharia](https://linkedin.com/in/diya-sambharia-78b446234)
+## 📫 Contact
+- LinkedIn: [diya‑sambharia](https://linkedin.com/in/diya-sambharia-78b446234)
 
 ## 🛠️ Tech Stack
-**Languages**: Python • Java • JavaScript • SQL
-
-**AI/ML & Data**: LangChain • RAG pipelines • Anthropic Claude API • Groq (Llama 3.3 70B) • Prompt Engineering • OpenCV • TensorFlow/Keras
-
-**Backend**: FastAPI • Flask • Node.js • Express • REST APIs
-
-**Frontend**: React • Streamlit • Tkinter
-
-**Databases**: MongoDB • MySQL • SQL
-
-**Cloud & DevOps**: Microsoft Azure (DP‑900 certified) • Docker • Git/GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure-devops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
-| Project | Description |
-|---|---|
-| **[QueryLock – Natural‑Language‑to‑SQL Query Assistant](https://github.com/diyasambharia/nl-to-sql-assistant)** | Guarded NL‑to‑SQL system with a 4‑layer defense‑in‑depth pipeline (AST parsing, whitelisting, injection stripping, read‑only DB) • Multi‑provider LLM support (Claude, Groq, OpenAI, offline) • 100 % accuracy on benchmark • 13/13 guard‑rail unit tests • [Live demo](https://nl-to-sql-assistant-be7ijqixsjha9rdaymcgpq.streamlit.app/) |
-| **[AskBase – FAQ Chatbot with RAG](https://github.com/diyasambharia/AI-Chatbot-for-FAQs-)** | Retrieval‑augmented FAQ chatbot built with LangChain, Flask, and Docker |
-| **[SafeGuard AI](https://github.com/diyasambharia/SafeGuardAI)** | Desktop security system using OpenCV Haar cascade face capture, LBPH face recognition (MySQL DB) and frame‑differencing motion detection, with a Tkinter GUI |
-| **[Hirefit – Job‑Resume Match Analyzer](https://github.com/diyasambharia/Hirefit)** | LLM‑judged resume‑to‑job matcher built with FastAPI and Streamlit, swappable LLM backend (Claude API / Groq Llama 3.3 70B), deployed on Hugging Face Spaces |
+- **[QueryLock – Natural‑Language‑to‑SQL Query Assistant](https://github.com/diyasambharia/nl-to-sql-assistant)** – Guarded NL‑to‑SQL system with 4‑layer defense‑in‑depth, multi‑LLM support, 100 % benchmark accuracy. [Live demo](https://nl-to-sql-assistant-be7ijqixsjha9rdaymcgpq.streamlit.app/)
+- **[AskBase – FAQ Chatbot with RAG](https://github.com/diyasambharia/AI-Chatbot-for-FAQs-)** – Retrieval‑augmented FAQ chatbot built with LangChain, Flask, Docker.
+- **[SafeGuard AI](https://github.com/diyasambharia/SafeGuardAI)** – Desktop security system using OpenCV Haar cascade, LBPH face recognition, motion detection, Tkinter GUI.
+- **[Hirefit – Job‑Resume Match Analyzer](https://github.com/diyasambharia/Hirefit)** – LLM‑judged resume‑to‑job matcher (FastAPI + Streamlit) deployed on Hugging Face Spaces.
 
 ## 📊 GitHub Stats
 ![Diya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=diyasambharia&show_icons=true&theme=radical)
